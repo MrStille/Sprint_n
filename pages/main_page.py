@@ -1,9 +1,7 @@
 import re
 import time
-from time import thread_time
 
 import allure
-from selenium.webdriver.common.by import By
 
 from locators.main_page_locators import MainPageLocators
 from pages.base_page import BasePage
